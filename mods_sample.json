@@ -1,0 +1,34 @@
+[
+    {
+        "filename": "Psi 1.16-92.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/psi/download/3244745",
+        "mode": "normal",
+        "tags": []
+    },
+    {
+        "filename": "jei-1.16.5-7.6.1.75.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/3245079",
+        "mode": "normal",
+        "tags": [
+            "client-only"
+        ]
+    },
+    {
+        "filename": "OptiFine_1.16.5_HD_U_G7.jar",
+        "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G7.jar&x=b432d968869f79179e9e380cf8ed692f",
+        "mode": "normal",
+        "tags": [
+            "client-only",
+            "optional"
+        ]
+    },
+    {
+        "filename": "worldedit-mod-7.2.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/worldedit/download/3237691",
+        "mode": "normal",
+        "tags": [
+            "server-only",
+            "optional"
+        ]
+    }
+]
